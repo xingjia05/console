@@ -1,6 +1,6 @@
 <?php
 
-namespace AppBundle\Console\Cache;
+namespace TokenClient\Cache;
 
 /**
  * Class RedisInterface

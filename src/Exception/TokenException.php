@@ -1,6 +1,6 @@
 <?php
 
-namespace AppBundle\Console\Exception;
+namespace TokenClient\Exception;
 
 /**
  * Class TokenException

@@ -1,10 +1,10 @@
 <?php
 
-namespace AppBundle\Console;
+namespace TokenClient;
 
 use Exception;
-use AppBundle\Console\Exception\TokenException;
-use AppBundle\Console\Cache\RedisInterface;
+use TokenClient\Exception\TokenException;
+use TokenClient\Cache\RedisInterface;
 /**
  * Token服务
  * Class TokenClient
