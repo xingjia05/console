@@ -8,6 +8,7 @@
     "homepage": "https://github.com/xingjia05/console",
     "license": "MIT",
     "type": "project",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "xingjia",
